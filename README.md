@@ -94,6 +94,8 @@ Key learning areas include:
 | Day 16 | Documentation Standards & Version Control         |
 | Day 17 | End-to-End Sprint Simulation                      |
 | Day 18 | Escalation Management                             |
+| Day 19 | Project Package Creation                          |
+| Day 20 | Final Presentaion and Personal Reflection         |
 
 ---
 
@@ -183,6 +185,7 @@ During this internship I gained practical experience in:
 * Identifying and managing project risks
 * Handling change requests
 * Preparing project closure documentation
+* Creating Product packages
 
 ---
 
