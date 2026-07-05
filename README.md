@@ -1,4 +1,4 @@
-# 🚀 PM Internship Portfolio – Dhruv Gupta
+# 🚀 PM Internship Training Period Portfolio – Dhruv Gupta
 
 <p align="center">
 
@@ -13,7 +13,7 @@
 
 # 📖 Overview
 
-This repository contains all the work completed during my **Project Management Internship**. It demonstrates my understanding of the complete Software Development Life Cycle (SDLC), Agile project management practices, stakeholder communication, documentation standards, sprint planning, risk management, testing, and project closure.
+This repository contains all the work completed during my **Project Management Internship Training**. It demonstrates my understanding of the complete Software Development Life Cycle (SDLC), Agile project management practices, stakeholder communication, documentation standards, sprint planning, risk management, testing, and project closure.
 
 The repository also includes a complete case study of an **Expense Tracker Mobile Application**, where every major project management document was created from project initiation through successful closure.
 
@@ -47,7 +47,7 @@ Key learning areas include:
 📦 PM-Internship
 │
 ├── 📁 Documents
-│   ├── Day 01 – Day 18 Learning Material
+│   ├── Day 01 – Day 20 Learning Material
 │   ├── BRD & PRD References
 │   └── PM Templates
 │
@@ -103,7 +103,7 @@ Key learning areas include:
 
 ## 💰 Expense Tracker Mobile App
 
-The primary project completed during this internship was the **Expense Tracker Mobile App**.
+The primary project completed during this internship Training was the **Expense Tracker Mobile App**.
 
 The project demonstrates how project management practices are applied throughout the lifecycle of a software product.
 
@@ -157,6 +157,7 @@ A(Project Initiation)
 * Status Reporting
 * Testing Coordination
 * Project Closure
+* JIRA, Confluence
 
 ---
 
